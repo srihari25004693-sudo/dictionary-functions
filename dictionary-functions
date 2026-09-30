@@ -1,0 +1,13 @@
+employee = {
+    "name" : "srihari J",
+    "age": 18,
+    "department" : "analyst",
+    "phone no" : 9677963251
+    
+    }
+
+print("the dict is", employee)
+print("employee name is",employee["name"])
+print("the employee age is",employee["age"])
+print("department", employee["department"])
+print("phone no", employee["phone no"])
